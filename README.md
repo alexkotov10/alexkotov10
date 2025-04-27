@@ -1,6 +1,6 @@
 # Hello, I'm Alex 👋
 
-Currently learning/developing with Swift.
+Learning Flutter
 
 ## 💻 Tech Stack
 
